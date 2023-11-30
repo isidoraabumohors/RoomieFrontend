@@ -1,7 +1,7 @@
 import './App.css'
 import Navbar from './Navbar';
 // import React, { useState } from 'react';
-import logo from '../public/assets/roomie_logo.jpg';
+import logo from '../assets/roomie_logo.jpg';
 import Slideshow from './Slideshow';
 
 function App() {

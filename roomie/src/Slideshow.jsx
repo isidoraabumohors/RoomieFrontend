@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from 'react';
 import './Slideshow.css';
 
-import background1 from '../public/assets/background/background1.jpg';
-import background2 from '../public/assets/background/background2.jpg';
-import background3 from '../public/assets/background/background3.jpg';
-import background4 from '../public/assets/background/background4.jpg';
-import background5 from '../public/assets/background/background5.jpg';
-import background6 from '../public/assets/background/background6.jpg';
-import background7 from '../public/assets/background/background7.jpg';
-import background8 from '../public/assets/background/background8.jpg';
+import background1 from '../assets/background/background1.jpg';
+import background2 from '../assets/background/background2.jpg';
+import background3 from '../assets/background/background3.jpg';
+import background4 from '../assets/background/background4.jpg';
+import background5 from '../assets/background/background5.jpg';
+import background6 from '..assets/background/background6.jpg';
+import background7 from '../assets/background/background7.jpg';
+import background8 from '../assets/background/background8.jpg';
 
 
 const Slideshow = () => {

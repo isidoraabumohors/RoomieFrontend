@@ -1,4 +1,4 @@
-import avatar from './assets/Avatar.jpeg'
+import avatar from '../assets/Avatar.jpeg'
 import './Card.css'
 
 export default function Card() {
